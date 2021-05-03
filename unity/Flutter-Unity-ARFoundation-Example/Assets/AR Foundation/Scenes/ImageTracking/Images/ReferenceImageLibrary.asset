@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5428154196320726960
+  m_GuidHigh: 16297957427668760463
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5140062810851298319
+      m_GuidHigh: 8614653387493190056
+    m_SerializedTextureGuid:
+      m_GuidLow: 9581847011582020937
+      m_GuidHigh: 13643405941181754266
+    m_Size: {x: 0.05, y: 0.048015874}
+    m_SpecifySize: 1
+    m_Name: whizzy
+    m_Texture: {fileID: 2800000, guid: 197c0d498f1784f99aab97ea6a1d57bd, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4622452828043978411
+      m_GuidHigh: 11324039395454457238
+    m_SerializedTextureGuid:
+      m_GuidLow: 8405161128494187418
+      m_GuidHigh: 7237389681997455467
+    m_Size: {x: 0.15, y: 0.13814555}
+    m_SpecifySize: 1
+    m_Name: rocky
+    m_Texture: {fileID: 2800000, guid: 8fd1439a218374a56b208908925f7064, type: 3}
