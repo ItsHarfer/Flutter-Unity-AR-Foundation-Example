@@ -11,7 +11,7 @@ In the example scene, the user can test an AR scene with the printed image (imag
 * If necessary, follow the instructions for the plugin [cookiejarlid](https://github.com/Glartek/flutter-unity/)
 
 ## Support
-If you have any questions or problems, please post an issue or contact me at: [support@echoAR.xyz](mailto:martin.haferanke@gmail.com)
+If you have any questions or problems, please post an issue or contact me at: [martin.haferanke@gmail.com](mailto:martin.haferanke@gmail.com)
  
  
  ![Example](https://www.icloud.com/iclouddrive/0PaxV94GoAsXg0czg9MitEbAg#Ohne_Titel "Example")
