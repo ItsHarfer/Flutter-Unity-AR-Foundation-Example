@@ -1,0 +1,34 @@
+{
+  "name": "flutter_unity",
+  "version": "0.0.1",
+  "summary": "A Flutter plugin for embedding Unity projects in Flutter projects.",
+  "description": "A Flutter plugin for embedding Unity projects in Flutter projects.",
+  "homepage": "https://github.com/Glartek/flutter-unity",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Pedro Godinho": "pmcgbox@gmail.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "pod_target_xcconfig": {
+    "DEFINES_MODULE": "YES",
+    "VALID_ARCHS[sdk=iphonesimulator*]": "x86_64"
+  },
+  "xcconfig": {
+    "FRAMEWORK_SEARCH_PATHS": "$(inherited) \"${PODS_CONFIGURATION_BUILD_DIR}\"",
+    "OTHER_LDFLAGS": "$(inherited) -framework UnityFramework"
+  }
+}

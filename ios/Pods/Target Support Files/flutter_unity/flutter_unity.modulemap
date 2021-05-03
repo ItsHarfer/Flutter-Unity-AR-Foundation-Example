@@ -1,0 +1,6 @@
+framework module flutter_unity {
+  umbrella header "flutter_unity-umbrella.h"
+
+  export *
+  module * { export * }
+}
