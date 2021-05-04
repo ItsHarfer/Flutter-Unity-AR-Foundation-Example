@@ -29,9 +29,9 @@ MonoBehaviour:
       m_GuidLow: 4622452828043978411
       m_GuidHigh: 11324039395454457238
     m_SerializedTextureGuid:
-      m_GuidLow: 8405161128494187418
-      m_GuidHigh: 7237389681997455467
+      m_GuidLow: 3767382724808857831
+      m_GuidHigh: 8548285122932800715
     m_Size: {x: 0.15, y: 0.13814555}
     m_SpecifySize: 1
     m_Name: rocky
-    m_Texture: {fileID: 2800000, guid: 8fd1439a218374a56b208908925f7064, type: 3}
+    m_Texture: {fileID: 0}
